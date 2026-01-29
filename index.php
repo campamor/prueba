@@ -1,3 +1,3 @@
 <?php
-echo "Esto es una prueba";
+echo "My site";
 
